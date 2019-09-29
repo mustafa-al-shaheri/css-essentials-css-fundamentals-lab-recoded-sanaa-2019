@@ -10,8 +10,7 @@ h1 {
 
 figure
 {
-display: block;
-margin: 0 auto;
+align-items: center;
 }
 nav>a {
   background: grey;

@@ -15,7 +15,8 @@ margin: 0 auto;
 }
 nav>a {
   background: grey;
-  text-align: center;
+  display: block;
+  margin: 0 auto;
   padding-left: 10px;
   padding-right: 10px;
 }
